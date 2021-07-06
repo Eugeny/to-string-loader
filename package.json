@@ -1,17 +1,8 @@
 {
-  "name": "to-string-loader",
+  "name": "@tabby-gang/to-string-loader",
   "description": "to-string loader for webpack",
-  "version": "1.1.6",
+  "version": "1.1.7-beta.2",
   "main": "./src/to-string.js",
-  "author": {
-    "name": "Gajus Kuizinas",
-    "email": "gk@anuary.com",
-    "url": "http://gajus.com/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gajus/to-string-loader"
-  },
   "keywords": [
     "webpack",
     "to-string"
